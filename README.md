@@ -1,2 +1,2 @@
 # Energy-Related-Projects
-A collection of beginner- to intermediate-level virtual engineering simulators written in Python regarding energy related topics!
+1. Solar Grid Simulator: Renewable energy (Sunlight) micro-grid simulation tracking solar power generation against variable hourly electrical demands using both live API feeds and manual inputs.
