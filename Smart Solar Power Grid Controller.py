@@ -1,4 +1,4 @@
-# This project was ran on Wokwi, Link to project: https://wokwi.com/projects/468521085279259649
+# This project can be run on Wokwi, Link to project: https://wokwi.com/projects/468521085279259649
 import time
 import machine
 
